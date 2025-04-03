@@ -1,0 +1,7 @@
+env/
+data.csv
+models/
+__pycache__/
+proxy_protection.log
+proxy_config.json
+.idea/
